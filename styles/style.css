@@ -1,0 +1,22 @@
+
+
+.btn{
+    height: 2.5rem;
+    min-height: 2.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.search_btn{
+    height: 3rem;
+    min-height: 3rem;
+}
+
+.search_btn:hover{
+    background-color: #3200bb;
+}
+
+.input:focus{
+    border: none;
+    outline: none;
+}
